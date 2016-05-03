@@ -4,3 +4,4 @@
 
 ## Conferences
 - [The ACM Conference Series on Recommender Systems](https://recsys.acm.org/)
+- [The Recommender Systems Wiki](http://www.recsyswiki.com/wiki/Main_Page)
