@@ -12,3 +12,11 @@
 ## Courses
 - [Machine Learning: Recommender Systems & Dimensionality Reduction - University of Washington - Part of Machine Learning specialization on Coursera](https://www.coursera.org/learn/ml-recommenders/)
 - [Introduction to Recommender Systems - University of Minnesota (Coursera)](https://www.coursera.org/learn/recommender-systems/)
+
+## Tools / Technologies / Softwares / Applications
+- [LensKit](http://lenskit.org/)
+- [MovieLens - Non-commercial, personalized movie recommendations](https://movielens.org/)
+- [Cyclopath - discover your path](http://cyclopath.org/) Find bike routes that match the way you ride. Share your cycling knowledge with the community.
+
+## Other Links
+- [Grouplens - Social Computing Research at the University of Minnesota](http://grouplens.org/)  GroupLens advances the theory and practice of social computing by building and understanding systems used by real people
